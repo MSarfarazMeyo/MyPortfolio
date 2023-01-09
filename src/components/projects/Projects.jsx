@@ -44,7 +44,7 @@ export default function Projects() {
 
       <div className="pcards">
         <div className="pimg">
-          <img src={"assets/whatsforlounch.png"} alt="" />
+          <img src={"assets/whatsforlounch.jpg"} alt="" />
         </div>
         <div className="pinf">
           <h3>WhatsForLounch Stake</h3>
