@@ -1,6 +1,6 @@
 import "./topbar.scss";
 
-import GetAppIcon from "@material-ui/icons/GetApp";
+import GetAppIcon from "@mui/icons-material/GetApp";
 
 export default function Topbar({ menuOpen, setMenuOpen }) {
   return (
